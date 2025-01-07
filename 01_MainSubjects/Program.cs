@@ -47,9 +47,9 @@ namespace _01_MainSubjects
             //customerPhone = "+90 500 400 30 20";
             //customerEmail = "stoilov@gmail.com";
             //district = "Goztepe";
-            //city = "İzmir";
+            //city = "Izmir";
 
-            //Console.WriteLine("***** Rezervation Information *****");
+            //Console.WriteLine("***** Reservation Information *****");
 
             //Console.WriteLine("Name : " + customerName);
             //Console.WriteLine("Surname : " + customerSurname);
